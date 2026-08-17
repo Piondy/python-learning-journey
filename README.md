@@ -167,14 +167,14 @@ For each topic I learn, I aim to:
 
 ### Python
 
-* [x] Variables
-* [x] Basic Data Types
-* [x] Lists
-* [x] Tuples
-* [x] Sets
-* [x] Conditional Statements
-* [x] For Loops
-* [x] While Loops
+* [ ] Variables
+* [ ] Basic Data Types
+* [ ] Lists
+* [ ] Tuples
+* [ ] Sets
+* [ ] Conditional Statements
+* [ ] For Loops
+* [ ] While Loops
 * [ ] Dictionaries
 * [ ] Functions
 * [ ] Modules
