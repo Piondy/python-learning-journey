@@ -167,8 +167,7 @@ For each topic I learn, I aim to:
 
 ### Python
 
-* [ ] Variables
-* [ ] Basic Data Types
+* [x] Basic Data Types
 * [ ] Lists
 * [ ] Tuples
 * [ ] Sets
